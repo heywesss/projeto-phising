@@ -19,5 +19,6 @@ URL para clone: http://www.instagram.com
 Resultado: o Phising foi executado com sucesso.
 
 ![Resultado do phishing](TestePhishing_instagram.png)
+
 OBS: Foi utilizado o Instagram para teste, pois ao realizar as tentativas no Facebook, o Setoolkit não conseguiu capturar as credenciais.  
 
